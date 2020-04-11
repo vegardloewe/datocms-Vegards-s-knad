@@ -64,7 +64,7 @@ const TemplateWrapper = ({ children }) => {
                   <Link to="/">Prosjekter</Link>
                 </li>
                 <li>
-                  <Link to="/about">Om</Link>
+                  <Link to="/about">Om meg</Link>
                 </li>
               </ul>
               <p className="sidebar__social">
